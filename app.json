@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "fullstory-fps",
+    "slug": "fullstory-fps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.elliottkember.fullstoryfps"
+    },
+    "ios": {
+      "bundleIdentifier": "com.elliottkember.fullstoryfps"
+    }
+  },
+  "name": "fullstory-fps"
+}
