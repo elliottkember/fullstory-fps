@@ -1,5 +1,7 @@
 # fullstory-fps
 
+Frame drop debugging example application
+
 Steps to run:
 1. Set FSOrgId in `ios/fullstoryfps/Info.plist`
 2. `$ yarn`
